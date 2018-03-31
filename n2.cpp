@@ -22,7 +22,7 @@ int main(void)
 		result = 1;
 		fac(i, &result);
 	}
-	return 0;
+	return 87;
 }
 
 void fac(int n, int *ans)
