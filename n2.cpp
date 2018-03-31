@@ -1,7 +1,7 @@
-// n2.cpp : ©w¸q¥D±±¥xÀ³¥Îµ{¦¡ªº¶i¤JÂI¡C
+// n2.cpp : å®šç¾©ä¸»æ§å°æ‡‰ç”¨ç¨‹å¼çš„é€²å…¥é»ã€‚
 //
 
-// n1.cpp : ©w¸q¥D±±¥xÀ³¥Îµ{¦¡ªº¶i¤JÂI¡C
+// n1.cpp : å®šç¾©ä¸»æ§å°æ‡‰ç”¨ç¨‹å¼çš„é€²å…¥é»ã€‚
 //
 
 #include "stdafx.h"
@@ -15,7 +15,7 @@ void fac(int, int *);
 int main(void)
 {
 	int n, result;
-
+	int aaaaaa;
 	int i;
 	for (i = 1; i <= 10; i++)
 	{
